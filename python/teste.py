@@ -1,4 +1,4 @@
-nome = "casca"
+import numpy as np
 
-for x in nome:
-    print("Olá")
+n = np.random.rand()
+print (n)
